@@ -1,0 +1,4 @@
+model_checkpoint_path: "mnist.ckpt-28"
+all_model_checkpoint_paths: "mnist.ckpt-23"
+all_model_checkpoint_paths: "mnist.ckpt-27"
+all_model_checkpoint_paths: "mnist.ckpt-28"
